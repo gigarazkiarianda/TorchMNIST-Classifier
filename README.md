@@ -1,4 +1,4 @@
-<h1 align="center">Arduino LED - LCD Visualizer</h1>
+<h1 align="center">TorchMNIST - Classifier</h1>
 
 <p align="center">
   <a href="LICENSE">
@@ -13,36 +13,49 @@
 
 
 ## Introduction
-`LED - LCD Visualizer` adalah proyek yang menggunakan Arduino untuk menampilkan teks bergulir pada layar LiquidCrystal sambil memberikan efek visual dengan LED yang berkedip. Proyek ini tidak hanya menunjukkan kemampuan dasar dalam mengendalikan komponen elektronik, tetapi juga memperlihatkan potensi untuk dikembangkan dengan integrasi sensor atau input tambahan untuk aplikasi yang lebih kompleks.
+`TorchMnist-Classifier` merupakan program yang menggunakan PyTorch untuk melatih dan menguji jaringan saraf tiruan sederhana pada dataset MNIST. Program ini mengimplementasikan neural network dengan tiga lapisan linear untuk mengenali angka tulisan tangan. Model dilatih menggunakan SGD dengan momentum dan menampilkan akurasi pengujian setelah pelatihan. Program juga menampilkan beberapa gambar dari dataset uji beserta label aktual dan prediksi dari model.
 
 ## Tech Stack
 Framework, Library, Database, Tools, etc
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## Installation
 Langkah-langkah untuk menginstal dan menjalankan proyek secara lokal:
 ```bash
 # Clone repository ini
-git clone https://github.com/gigarazkiarianda/arduino-led-lcd-visualizer.git
+git clone https://github.com/gigarazkiarianda/TorchMNIST-Classifier.git
 
 # Masuk ke direktori proyek
-cd arduino-led-lcd-visualizer
+cd TorchMNIST-Classifier
+
+# buka Visual Studio Code
 ```
 
 
 ## User Guide 
 Petunjuk penggunaan proyek, dengan contoh penggunaan dan konfigurasi:
 
-* dan buka file menggunakan software `Aruino IDE`
-* pastikan terhubung ke `board` 
-* kemudian `verify`
-* setelah itu `upload`
+Jalankan perintah ini pada terminal : 
+``` bash
+Python TorchMNIST-Classifier.py
+```
 
 ## Struktur Folder
 ```bash
-arduino-led-lcd-visualizer/
-├── arduino-led-lcd-visualizer.ino
+TorchMNIST-Classifier/
+│
+├── TorchMNIST-Classifier.py
+│
+└── data/
+    └── mnist/
+        └── raw/
+            ├── train-images-idx3-ubyte.gz
+            ├── train-labels-idx1-ubyte.gz
+            ├── t10k-images-idx3-ubyte.gz
+            └── t10k-labels-idx1-ubyte.gz
+
 ```
 
 ## Highlight
