@@ -43,20 +43,8 @@ Python TorchMNIST-Classifier.py
 ```
 
 ## Struktur Folder
-```bash
-TorchMNIST-Classifier/
-│
-├── TorchMNIST-Classifier.py
-│
-└── data/
-    └── mnist/
-        └── raw/
-            ├── train-images-idx3-ubyte.gz
-            ├── train-labels-idx1-ubyte.gz
-            ├── t10k-images-idx3-ubyte.gz
-            └── t10k-labels-idx1-ubyte.gz
+![XS_VIiCm50Rm-pp58JUxod3u0WD5y48HjXSuDIVRmIIL_46hzDtTGaenbBLNxVVrbu_iOyAGihDY0uzas1CuP0-cjve27FlmVdvvVJuSrOF56Dam1L5BkTXA-1LmUJRmn9RWRKZdtfV4NB-NqVPpaAAoG-xgWCQ49Pm6hy5qVlkpynnJRMPHqeaiiO1VfMlX9M_PV8SKaBrYXoUAYlNtlS](https://github.com/gigarazkiarianda/TorchMNIST-Classifier/assets/75737741/7e592e03-987a-4006-b9ce-01b15c734f96)
 
-```
 
 ## Highlight
 > None
