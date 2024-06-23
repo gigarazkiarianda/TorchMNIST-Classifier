@@ -62,7 +62,8 @@ TorchMNIST-Classifier/
 > None
 
 ## System Flow
-![Uploading TL9DRnf13BtFh_0H992ILht0eL7R728rg1Avz5Gz62zhTiQpcezKxQylir2MaEJYjTRFptxFSvSoOYxUcNLDZ5ayg2I1auGaPFbPjamMIZb2KnEY7_uZOsaMZmLvo1DdUbmzh9-eQ2uTzUoGfOKEhJthhkm5UcZvnetK2HsKrk9xnwiLsGC0IWwz9EZyzALcUpixX0yrV5nUhUQ3PJSZ5r.png…]()
+![TL9DRnf13BtFh_0H992ILht0eL7R728rg1Avz5Gz62zhTiQpcezKxQylir2MaEJYjTRFptxFSvSoOYxUcNLDZ5ayg2I1auGaPFbPjamMIZb2KnEY7_uZOsaMZmLvo1DdUbmzh9-eQ2uTzUoGfOKEhJthhkm5UcZvnetK2HsKrk9xnwiLsGC0IWwz9EZyzALcUpixX0yrV5nUhUQ3PJSZ5r](https://github.com/gigarazkiarianda/TorchMNIST-Classifier/assets/75737741/bcc71aa2-d4e5-4a85-9005-d391f0d9c6f0)
+
 
 
 ## Issue
