@@ -15,6 +15,12 @@
 ## Introduction
 `TorchMnist-Classifier` merupakan program yang menggunakan PyTorch untuk melatih dan menguji jaringan saraf tiruan sederhana pada dataset MNIST. Program ini mengimplementasikan neural network dengan tiga lapisan linear untuk mengenali angka tulisan tangan. Model dilatih menggunakan SGD dengan momentum dan menampilkan akurasi pengujian setelah pelatihan. Program juga menampilkan beberapa gambar dari dataset uji beserta label aktual dan prediksi dari model.
 
+
+## Fitur 
+ * Pembelajaran dengan Jaringan Syaraf Tiruan Sederhana (SimpleNN)
+ * Pelatihan Jaringan (Training)
+ * Evaluasi Jaringan (Evaluation)
+
 ## Tech Stack
 Framework, Library, Database, Tools, etc
 
