@@ -48,16 +48,9 @@ Jalankan perintah ini pada terminal :
 Python TorchMNIST-Classifier.py
 ```
 
-## Struktur Folder
-![XS_VIiCm50Rm-pp58JUxod3u0WD5y48HjXSuDIVRmIIL_46hzDtTGaenbBLNxVVrbu_iOyAGihDY0uzas1CuP0-cjve27FlmVdvvVJuSrOF56Dam1L5BkTXA-1LmUJRmn9RWRKZdtfV4NB-NqVPpaAAoG-xgWCQ49Pm6hy5qVlkpynnJRMPHqeaiiO1VfMlX9M_PV8SKaBrYXoUAYlNtlS](https://github.com/gigarazkiarianda/TorchMNIST-Classifier/assets/75737741/7e592e03-987a-4006-b9ce-01b15c734f96)
-
 
 ## Highlight
 > None
-
-## System Flow
-![TL9DRnf13BtFh_0H992ILht0eL7R728rg1Avz5Gz62zhTiQpcezKxQylir2MaEJYjTRFptxFSvSoOYxUcNLDZ5ayg2I1auGaPFbPjamMIZb2KnEY7_uZOsaMZmLvo1DdUbmzh9-eQ2uTzUoGfOKEhJthhkm5UcZvnetK2HsKrk9xnwiLsGC0IWwz9EZyzALcUpixX0yrV5nUhUQ3PJSZ5r](https://github.com/gigarazkiarianda/TorchMNIST-Classifier/assets/75737741/bcc71aa2-d4e5-4a85-9005-d391f0d9c6f0)
-
 
 
 ## Issue
